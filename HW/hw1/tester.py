@@ -1,4 +1,4 @@
-
+python tester.py “Number 1” 2
 import sys
 import subprocess
 import random
